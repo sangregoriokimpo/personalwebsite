@@ -8,7 +8,7 @@ export const DATA = {
   location: "Everett, WA",
   locationLink: "https://www.google.com/maps/place/Everett,+WA",
   description:
-    "Mechanical Engineering student (EE minor) focused on robotics, autonomous systems, and GN&C. I build simulators, perception-control stacks, and orbital robotics.",
+    "B.S. Mechanical Engineering student (Electrical Engineering minor) focused on robotics, autonomous systems, and guidance, navigation & control (GN&C). Builds high-fidelity simulators and integrated perception-control systems for robotics applications.",
   summary:
     "Aspiring Roboticist and Aerospace Engineer pursuing a B.S. in Mechanical Engineering with a minor in Electrical Engineering at Washington State University. Interdisciplinary engineer with experience in robotics & mechatronics, autonomous systems, and GN&C, across both hardware, software and simulation.",
   avatarUrl: "/githubpfp.jpg",
