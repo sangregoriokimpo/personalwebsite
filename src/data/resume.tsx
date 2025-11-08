@@ -8,7 +8,7 @@ export const DATA = {
   location: "Everett, WA",
   locationLink: "https://www.google.com/maps/place/Everett,+WA",
   description:
-    "Mechanical Engineering student (EE minor) focused on robotics, autonomous systems, and GN&C. Building simulators, perception-control stacks, and orbital robotics.",
+    "Mechanical Engineering student (EE minor) focused on robotics, autonomous systems, and GN&C. I build simulators, perception-control stacks, and orbital robotics.",
   summary:
     "Aspiring Roboticist and Aerospace Engineer pursuing a B.S. in Mechanical Engineering with a minor in Electrical Engineering at Washington State University. Interdisciplinary engineer with experience in robotics & mechatronics, autonomous systems, and GN&C, across both hardware, software and simulation.",
   avatarUrl: "/githubpfp.jpg",
@@ -25,7 +25,7 @@ export const DATA = {
     "Robot Operating System (ROS)",
     "Gazebo",
     "OpenCV",
-    "YOLOv8",
+    "YOLO",
     "Docker",
     "Git",
     "Fusion 360",
@@ -95,7 +95,7 @@ export const DATA = {
     {
       company: "Palouse RoboSub — WSU",
       href: "https://robonation.org/programs/robosub/",
-      badges: ["AUV/ROV", "Simulation Lead"],
+      badges: ["AUV/ROV", "Lead ROS Programmer"],
       location: "Pullman, WA",
       title: "Autonomy & Simulation Lead",
       logoUrl: "palouserobosub.jpg",
