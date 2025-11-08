@@ -95,7 +95,7 @@ export const DATA = {
     {
       company: "Palouse RoboSub — WSU",
       href: "https://robosub.eecs.wsu.edu/",
-      badges: ["AUV/ROV", "ROS"],
+      badges: ["AUV/ROV", "ROS2"],
       location: "Pullman, WA",
       title: "Autonomy & Simulation Lead",
       logoUrl: "palouserobosub.jpg",
