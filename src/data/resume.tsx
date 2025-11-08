@@ -70,7 +70,7 @@ export const DATA = {
   work: [
     {
       company: "Sierra Lobo",
-      href: "https://www.sierralobo.com",
+      href: "https://sierralobo.com/",
       badges: ["Orbital Robotics", "Co-op"],
       location: "Milan, OH",
       title: "Incoming Computer Science Intern",
@@ -82,7 +82,7 @@ export const DATA = {
     },
     {
       company: "WSU — SIAS Lab (Dr. Hosseinzadeh)",
-      href: "https://sias.eecs.wsu.edu/",
+      href: "https://labs.wsu.edu/siaslab/",
       badges: ["Quadruped Robotics"],
       location: "Pullman, WA",
       title: "Undergraduate Robotics Research Assistant",
@@ -94,7 +94,7 @@ export const DATA = {
     },
     {
       company: "Palouse RoboSub — WSU",
-      href: "https://robonation.org/programs/robosub/",
+      href: "https://robosub.eecs.wsu.edu/",
       badges: ["AUV/ROV", "ROS"],
       location: "Pullman, WA",
       title: "Autonomy & Simulation Lead",
@@ -106,7 +106,7 @@ export const DATA = {
     },
     {
       company: "UF — RISING Lab (Dr. Sandip Ray)",
-      href: "https://risinglab.cise.ufl.edu/",
+      href: "https://sandip.ece.ufl.edu/rising-lab/",
       badges: ["ROS2", "Gazebo", "CV"],
       location: "Gainesville, FL",
       title: "Undergraduate Robotics Research Intern",
