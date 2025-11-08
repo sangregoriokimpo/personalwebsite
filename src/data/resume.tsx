@@ -114,7 +114,7 @@ export const DATA = {
       start: "05/2025",
       end: "08/2025",
       description:
-        "Built ROS2/Gazebo AV testbed; lane following & traffic-sign detection (OpenCV, YOLOv8, PID, Kalman); embedded integration on RPi4 and custom drivers.",
+        "Built ROS2/Gazebo AV testbed; lane following & traffic-sign detection (OpenCV, YOLOv8, PID, Kalman Filter); embedded integration on RPi4 and custom drivers.",
     },
     {
       company: "NASA L'SPACE — Mission Concept Academy",
@@ -147,7 +147,7 @@ export const DATA = {
       school: "Washington State University",
       href: "https://wsu.edu/",
       degree: "B.S. Mechanical Engineering (Minor in Electrical Engineering)",
-      logoUrl: "/wsu.png",
+      logoUrl: "/wsu.svg",
       start: "2023",
       end: "2028",
     },
