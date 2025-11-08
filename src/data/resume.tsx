@@ -261,6 +261,6 @@ export const DATA = {
     },
   ],
 
-  hackathons: [],
+  hackathons: ["Crimson Code 2024"],
 
 } as const;
