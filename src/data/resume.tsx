@@ -186,7 +186,7 @@ export const DATA = {
       dates: "May 2025 – Aug 2025",
       active: true,
       description:
-        "PiCar-X/RPi4 vision-only AV testbed with dual-lane pipelines (HSV, Canny/Hough), YOLO sign detection, PID+Kalman control, and live telemetry to study reflective/blinding/spoofing attacks and mitigations.",
+        "PiCar-X/RPi4 vision-only AV testbed with dual-lane pipelines (HSV, Canny/Hough), YOLO sign detection, PID + Kalman Filter control, and live telemetry to study reflective/blinding/spoofing attacks and mitigations.",
       technologies: [
         "Python",
         "OpenCV",
@@ -261,6 +261,6 @@ export const DATA = {
     },
   ],
 
-  hackathons: ["Crimson Code 2024"],
+  hackathons: [],
 
 } as const;
