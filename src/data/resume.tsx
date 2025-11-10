@@ -93,30 +93,6 @@ export const DATA = {
         "Probabilistic intention & motion prediction on Unitree Go2 EDU Plus for safe path planning around people.",
     },
     {
-      company: "Palouse RoboSub — WSU",
-      href: "https://robosub.eecs.wsu.edu/",
-      badges: ["AUV/ROV", "ROS2"],
-      location: "Pullman, WA",
-      title: "Autonomy & Simulation Lead",
-      logoUrl: "palouserobosub.jpg",
-      start: "01/2024",
-      end: "Present",
-      description:
-        "Led development of GNCea: Gazebo Harmonic AUV/ROV simulator with custom C++ plugins (thrust allocation, buoyancy, hydrodynamic drag), 6-DOF teleop, and autonomy.",
-    },
-    {
-      company: "Robotics Club — WSU",
-      href: "https://robotics.wsu.edu/",
-      badges: ["Quadruped Robotics", "ROS1"],
-      location: "Pullman, WA",
-      title: "CS Team Member",
-      logoUrl: "wsuroboticsclub.jpg",
-      start: "01/2025",
-      end: "Present",
-      description:
-        "Implemented a quadruped prototype URDF, joint controllers, and ROS1 Melodic control plugins for Gazebo/RViz and developed/integrated inverse kinematics with the CHAMP/CHVMP locomotion framework to enable stable, efficient gait control.",
-    },
-    {
       company: "UF — RISING Lab (Dr. Sandip Ray)",
       href: "https://sandip.ece.ufl.edu/rising-lab/",
       badges: ["ROS2", "Gazebo", "CV"],
