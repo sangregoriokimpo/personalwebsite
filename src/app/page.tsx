@@ -52,7 +52,7 @@ export default function Page() {
       <section id="work">
         <div className="flex min-h-0 flex-col gap-y-3">
           <BlurFade delay={BLUR_FADE_DELAY * 5}>
-            <h2 className="text-xl font-bold">Experience</h2>
+            <h2 className="text-xl font-bold">Work Experience</h2>
           </BlurFade>
           {DATA.work.map((work, id) => (
             <BlurFade
@@ -74,6 +74,33 @@ export default function Page() {
           ))}
         </div>
       </section>
+
+      <section id="extracurricular">
+        <div className="flex min-h-0 flex-col gap-y-3">
+          <BlurFade delay={BLUR_FADE_DELAY * 5}>
+            <h2 className="text-xl font-bold">Relevant Experience</h2>
+          </BlurFade>
+          {DATA.work.map((extracurricular, id) => (
+            <BlurFade
+              key={extracurricular.company}
+              delay={BLUR_FADE_DELAY * 6 + id * 0.05}
+            >
+              <ResumeCard
+                key={extracurricular.company}
+                logoUrl={extracurricular.logoUrl}
+                altText={extracurricular.company}
+                title={extracurricular.company}
+                subtitle={extracurricular.title}
+                href={extracurricular.href}
+                badges={extracurricular.badges}
+                period={`${extracurricular.start} - ${extracurricular.end ?? "Present"}`}
+                description={extracurricular.description}
+              />
+            </BlurFade>
+          ))}
+        </div>
+      </section>
+
       <section id="education">
         <div className="flex min-h-0 flex-col gap-y-3">
           <BlurFade delay={BLUR_FADE_DELAY * 7}>
