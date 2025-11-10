@@ -58,7 +58,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <GoogleAnalytics gaId="G-HYTE35XL35" />
+      <GoogleAnalytics gaId="G-XMWT4FNJK6" />
 
       <body
         className={cn(
