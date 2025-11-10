@@ -105,18 +105,6 @@ export const DATA = {
         "Built ROS2/Gazebo AV testbed; lane following & traffic-sign detection (OpenCV, YOLOv8, PID, Kalman Filter); embedded integration on RPi4 and custom drivers.",
     },
     {
-      company: "NASA L'SPACE — Mission Concept Academy",
-      href: "https://www.lspace.asu.edu/",
-      badges: ["CDH", "SDR","PDR","SDR",],
-      location: "Remote",
-      title: "Command & Data Handling (CDH) Engineer",
-      logoUrl: "lspace.png",
-      start: "12/2024",
-      end: "05/2025",
-      description:
-        "Designed CDH subsystem, ran trade studies, and developed Siemens NX CAD for a robotic space mission through SDR (System/Software Definition Review), PDR (Preliminary Design Review) and CDR (Critical Design Review).",
-    },
-    {
       company: "Amazon — PAE2",
       href: "https://www.amazon.com",
       badges: ["Top 100 NA"],
@@ -154,6 +142,18 @@ export const DATA = {
       end: "Present",
       description:
         "Implemented a quadruped prototype URDF, joint controllers, and ROS1 Melodic control plugins for Gazebo/RViz and developed/integrated inverse kinematics with the CHAMP/CHVMP locomotion framework to enable stable, efficient gait control.",
+    },
+    {
+      company: "NASA L'SPACE — Mission Concept Academy",
+      href: "https://www.lspace.asu.edu/",
+      badges: ["CDH", "Technical Writing",],
+      location: "Remote",
+      title: "Command & Data Handling (CDH) Engineer",
+      logoUrl: "lspace.png",
+      start: "12/2024",
+      end: "05/2025",
+      description:
+        "Designed CDH subsystem, ran trade studies, and developed Siemens NX CAD for a robotic space mission through SDR (System/Software Definition Review), PDR (Preliminary Design Review) and CDR (Critical Design Review).",
     },
   ],
 
