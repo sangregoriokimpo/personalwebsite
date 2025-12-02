@@ -137,7 +137,7 @@ export const DATA = {
       badges: ["Quadruped Robotics", "ROS1"],
       location: "Pullman, WA",
       title: "CS Team Member",
-      logoUrl: "wsuroboticsclub.jpg",
+      logoUrl: "arm_logo.png",
       start: "01/2025",
       end: "Present",
       description:
