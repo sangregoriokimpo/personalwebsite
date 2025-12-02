@@ -144,7 +144,7 @@ export const DATA = {
         "Implemented a quadruped prototype URDF, joint controllers, and ROS1 Melodic control plugins for Gazebo/RViz and developed/integrated inverse kinematics with the CHAMP/CHVMP locomotion framework to enable stable, efficient gait control.",
     },
     {
-      company: "NASA L'SPACE — Mission Concept Academy",
+      company: "NASA — L'SPACE Mission Concept Academy, Team 27 — Venera Nova",
       href: "https://www.lspace.asu.edu/",
       badges: ["CDH", "Technical Writing",],
       location: "Remote",
