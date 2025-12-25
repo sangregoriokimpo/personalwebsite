@@ -81,7 +81,7 @@ export const DATA = {
         "Co-op focused on orbital robotics using ROS and NVIDIA Isaac Sim; contributing to autonomy & simulation workflows.",
     },
     {
-      company: "WSU — SIAS Lab (Dr. Hosseinzadeh)",
+      company: "SIAS Lab, Dr. Hosseinzadeh",
       href: "https://labs.wsu.edu/siaslab/",
       badges: ["Quadruped Robotics"],
       location: "Pullman, WA",
@@ -90,10 +90,10 @@ export const DATA = {
       start: "08/2025",
       end: "Present",
       description:
-        "Probabilistic intention & motion prediction on Unitree Go2 EDU Plus for safe path planning around people.",
+        "Developing Isaac Sim implementation of HuNavSim for Unitree Go2 quadruped, modeling social intention and enabling safe path planning around people.",
     },
     {
-      company: "UF — RISING Lab (Dr. Sandip Ray)",
+      company: "RISING Lab, Dr. Sandip Ray",
       href: "https://sandip.ece.ufl.edu/rising-lab/",
       badges: ["ROS2", "Gazebo", "CV"],
       location: "Gainesville, FL",
@@ -105,7 +105,7 @@ export const DATA = {
         "Built ROS2/Gazebo AV testbed; lane following & traffic-sign detection (OpenCV, YOLOv8, PID, Kalman Filter); embedded integration on RPi4 and custom drivers.",
     },
     {
-      company: "Amazon — PAE2",
+      company: "Amazon, PAE2",
       href: "https://www.amazon.com",
       badges: ["Top 100 NA"],
       location: "Arlington, WA",
@@ -120,7 +120,7 @@ export const DATA = {
 
   extracurricular:[
     {
-      company: "Palouse RoboSub — WSU",
+      company: "Palouse RoboSub",
       href: "https://robosub.eecs.wsu.edu/",
       badges: ["AUV/ROV", "ROS2"],
       location: "Pullman, WA",
@@ -132,7 +132,7 @@ export const DATA = {
         "Led development of GNCea: Gazebo Harmonic AUV/ROV simulator with custom C++ plugins (thrust allocation, buoyancy, hydrodynamic drag), 6-DOF teleop, and autonomy.",
     },
     {
-      company: "Robotics Club — WSU",
+      company: "WSU Robotics Club",
       href: "https://robotics.wsu.edu/",
       badges: ["Quadruped Robotics", "ROS1"],
       location: "Pullman, WA",
@@ -144,7 +144,7 @@ export const DATA = {
         "Implemented a quadruped prototype URDF, joint controllers, and ROS1 Melodic control plugins for Gazebo/RViz and developed/integrated inverse kinematics with the CHAMP/CHVMP locomotion framework to enable stable, efficient gait control.",
     },
     {
-      company: "NASA — L'SPACE Mission Concept Academy (Team 27 Venera Nova)",
+      company: "NASA L'SPACE Mission Concept Academy (Team 27 Venera Nova)",
       href: "https://www.lspace.asu.edu/",
       badges: ["CDH", "Technical Writing",],
       location: "Remote",
@@ -164,13 +164,13 @@ export const DATA = {
       degree: "B.S. Mechanical Engineering (Minor in Electrical Engineering)",
       logoUrl: "/wsu.png",
       start: "2023",
-      end: "2028",
+      end: "2027",
     },
   ],
 
   projects: [
     {
-      title: "GNCea — AUV/ROV Simulator",
+      title: "GNCea, an AUV/ROV Simulator",
       href: "https://github.com/sangregoriokimpo/GNCea",
       dates: "Aug 2025 – Present",
       active: true,
