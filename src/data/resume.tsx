@@ -81,7 +81,7 @@ export const DATA = {
         "Co-op focused on orbital robotics using ROS and NVIDIA Isaac Sim; contributing to autonomy & simulation workflows.",
     },
     {
-      company: "SIAS Lab, Dr. Hosseinzadeh",
+      company: "WSU, SIAS Lab, Dr. Hosseinzadeh",
       href: "https://labs.wsu.edu/siaslab/",
       badges: ["Quadruped Robotics"],
       location: "Pullman, WA",
@@ -93,7 +93,7 @@ export const DATA = {
         "Developing Isaac Sim implementation of HuNavSim for Unitree Go2 quadruped, modeling social intention and enabling safe path planning around people.",
     },
     {
-      company: "RISING Lab, Dr. Sandip Ray",
+      company: "UF, RISING Lab, Dr. Sandip Ray",
       href: "https://sandip.ece.ufl.edu/rising-lab/",
       badges: ["ROS2", "Gazebo", "CV"],
       location: "Gainesville, FL",
@@ -171,11 +171,11 @@ export const DATA = {
   projects: [
     {
       title: "GNCea, an AUV/ROV Simulator",
-      href: "https://github.com/sangregoriokimpo/GNCea",
+      href: "https://github.com/PalouseRobosub/GNCea",
       dates: "Aug 2025 – Present",
       active: true,
       description:
-        "ROS 2 Jazzy-based simulator in Gazebo Harmonic with custom C++ plugins for thrust allocation, buoyancy, and hydrodynamic drag; real-time 6-DOF teleop, depth/altitude control, and camera/LiDAR perception.",
+        "ROS 2 Jazzy based simulator in Gazebo Harmonic with custom C++ plugins for thrust allocation, buoyancy, and hydrodynamic drag; real-time 6-DOF teleop, depth/altitude control, and camera/LiDAR perception.",
       technologies: [
         "C++",
         "Python",
@@ -188,7 +188,7 @@ export const DATA = {
       links: [
         {
           type: "Source",
-          href: "https://github.com/sangregoriokimpo/GNCea",
+          href: "https://github.com/PalouseRobosub/GNCea",
           icon: <Icons.github className="size-3" />,
         },
       ],
