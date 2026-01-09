@@ -73,7 +73,7 @@ export const DATA = {
       href: "https://sierralobo.com/",
       badges: ["Orbital Robotics", "Co-op"],
       location: "Milan, OH",
-      title: "Incoming Computer Science Intern",
+      title: "Computer Science Intern",
       logoUrl: "/sierralobo.png",
       start: "01/2026",
       end: "Present",
