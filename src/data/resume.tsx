@@ -192,7 +192,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/GNCea.png",
+      image: "/gncealogo.png",
       video: "",
     },
     {
