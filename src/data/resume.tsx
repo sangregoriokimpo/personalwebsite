@@ -196,6 +196,30 @@ export const DATA = {
       video: "",
     },
     {
+      title: "F1Tenth Algorithms",
+      href: "https://github.com/sangregoriokimpo/F1Tenth-Algorithms",
+      dates: "Dec 2025 – Present",
+      active: true,
+      description:
+        "A collection of Ackermann-steered vehicle algorithms implemented in ROS 2 Humble, including Follow-the-Gap and wall-following using multiple sensor suite (RGBD, 3D Lidar). Exploration of F1TENTH-style autonomous driving techniques. ",
+      technologies: [
+        "C++",
+        "Python",
+        "ROS 2 Humble",
+        "Gazebo Classic",
+        "XML/SDF",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/sangregoriokimpo/F1Tenth-Algorithms",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/pathmarker.png",
+      video: "",
+    },
+    {
       title: "Camera Sensor Attack Testbed",
       href: "https://github.com/sangregoriokimpo/Ackermann-Geometry-Lane-Follower", 
       dates: "May 2025 – Aug 2025",
