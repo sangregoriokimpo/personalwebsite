@@ -201,7 +201,7 @@ export const DATA = {
       dates: "Dec 2025 – Present",
       active: true,
       description:
-        "ROS 2 Humble F1Tenth autonomous racing stack for Ackermann vehicles, featuring Follow-the-Gap and wall-following with RGB-D + 3D LiDAR perception; supports multi-vehicle racing scenarios and real-time reactive navigation.",
+        "ROS 2 Humble F1Tenth autonomous racing stack for Ackermann vehicles, featuring Follow-the-Gap and wall-following with RGBD + 3D LiDAR perception; supports multi-vehicle racing scenarios and real-time reactive navigation.",
       technologies: [
         "C++",
         "Python",
