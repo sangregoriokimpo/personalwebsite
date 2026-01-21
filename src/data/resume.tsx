@@ -201,7 +201,7 @@ export const DATA = {
       dates: "Dec 2025 – Present",
       active: true,
       description:
-        "A collection of Ackermann-steered vehicle algorithms implemented in ROS 2 Humble, including Follow-the-Gap and wall-following using multiple sensor suite (RGBD, 3D Lidar). Exploration of F1TENTH-style autonomous driving techniques. ",
+        "ROS 2 Humble F1Tenth autonomous racing stack for Ackermann vehicles, featuring Follow-the-Gap and wall-following with RGB-D + 3D LiDAR perception; supports multi-vehicle racing scenarios and real-time reactive navigation.",
       technologies: [
         "C++",
         "Python",
