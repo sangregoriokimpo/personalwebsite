@@ -90,7 +90,7 @@ export const DATA = {
       start: "01/2026",
       end: "Present",
       description:
-        "Co-op in Autonomy and Simulation for Orbital Robotics and Satellite Workflows",
+        "Co-op in Autonomy and Simulation for Orbital Robotics and Satellite Workflows. Developing ROS2-based simulation environments in Isaac Sim for satellite servicing and on-orbit assembly, with a focus on GNC algorithm development and testing.",
     },
     {
       company: "WSU, SIAS Lab, Dr. Hosseinzadeh",
