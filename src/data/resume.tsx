@@ -71,7 +71,7 @@ export const DATA = {
     {
       company: "Sierra Lobo",
       href: "https://sierralobo.com/",
-      badges: ["Orbital Robotics","ROS2","Isaac Sim", "Co-op"],
+      badges: ["Orbital Robotics","ROS2","Isaac Sim"],
       location: "Milan, OH",
       title: "Incoming Robotics Engineering Intern",
       logoUrl: "/sierralobo.png",
@@ -83,14 +83,14 @@ export const DATA = {
     {
       company: "Sierra Lobo",
       href: "https://sierralobo.com/",
-      badges: ["Orbital Robotics","ROS2","Isaac Sim", "Co-op"],
+      badges: ["Orbital Robotics","ROS2","Isaac Sim"],
       location: "Milan, OH",
       title: "Robotics Engineering Intern | Part Time",
       logoUrl: "/sierralobo.png",
       start: "01/2026",
       end: "Present",
       description:
-        "Autonomy and Simulation for Orbital Robotics and Satellite Workflows.",
+        "Co-op in Autonomy and Simulation for Orbital Robotics and Satellite Workflows",
     },
     {
       company: "WSU, SIAS Lab, Dr. Hosseinzadeh",
