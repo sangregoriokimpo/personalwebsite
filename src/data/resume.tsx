@@ -153,7 +153,7 @@ export const DATA = {
       start: "01/2025",
       end: "Present",
       description:
-        "Implemented a quadruped prototype URDF, joint controllers, and ROS1 Melodic control plugins for Gazebo/RViz and developed/integrated inverse kinematics with the CHAMP/CHVMP locomotion framework to enable stable, efficient gait control.",
+        "Developed a prototype quadruped inverse kinematics system using the MIT CHAMP/CHVMP gait framework and prototyped PPO-based standing and walking policies in MuJoCo.",
     },
     {
       company: "NASA L'SPACE Mission Concept Academy (Team 27 Venera Nova)",
