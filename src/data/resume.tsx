@@ -8,7 +8,7 @@ export const DATA = {
   location: "Everett, WA",
   locationLink: "https://www.google.com/maps/place/Everett,+WA",
   description:
-    "Engineering Autonomy for the Final Frontier: Astronautics • Robotics • GN&C • Simulation",
+    "Engineering Autonomy for the Final Frontier: Robotics • Astronautics • GN&C • Simulation",
   summary:
     "Aspiring Roboticist and Aerospace Engineer pursuing a B.S. in Mechanical Engineering with a minor in Electrical Engineering at Washington State University. Interdisciplinary engineer with experience in robotics & mechatronics, autonomous systems, and GN&C, across both hardware, software and simulation.",
   avatarUrl: "/clearshiki.jpg",
