@@ -173,7 +173,7 @@ export const DATA = {
     {
       school: "Washington State University",
       href: "https://wsu.edu/",
-      degree: "B.S. Mechanical Engineering (Minor in Electrical Engineering)",
+      degree: "BSME - Robotics & Autonomous Systems | Minor in Electrical Engineering",
       logoUrl: "/wsu.png",
       start: "2023",
       end: "2027",
