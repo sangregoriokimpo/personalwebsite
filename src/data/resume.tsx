@@ -69,11 +69,11 @@ export const DATA = {
 
   work: [
     {
-      company: "NASA Jet Propulsion Laboratory (JPL), California Institute of Technology",
+      company: "NASA Jet Propulsion Laboratory, California Institute of Technology",
       href: "https://www.jpl.nasa.gov/",
-      badges: ["Lunar Robotics","M2M","ROS2"],
+      badges: ["Lunar Robotics","ROS2"],
       location: "Pasadena, CA",
-      title: "Applied Robotics Engineering Intern (358E) | National Space Grant College and Fellowship Program",
+      title: "Applied Robotics Engineering Intern (358E)",
       logoUrl: "/jpllogo.jpg",
       start: "08/2026",
       end: "12/2026",
@@ -188,7 +188,7 @@ export const DATA = {
       degree: "BSME - Robotics & Autonomous Systems | Minor in Electrical Engineering",
       logoUrl: "/wsu.png",
       start: "2023",
-      end: "2027",
+      end: "2028",
     },
   ],
 
