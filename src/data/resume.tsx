@@ -73,7 +73,7 @@ export const DATA = {
       href: "https://www.jpl.nasa.gov/",
       badges: ["Lunar Robotics","ROS2"],
       location: "Pasadena, CA",
-      title: "Applied Robotics Engineering Intern (358E)",
+      title: "Applied Robotic Systems Engineering Intern (358E)",
       logoUrl: "/jpllogo.jpg",
       start: "08/2026",
       end: "12/2026",
