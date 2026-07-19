@@ -73,7 +73,7 @@ export const DATA = {
       href: "https://www.jpl.nasa.gov/",
       badges: ["Lunar Robotics","M2M","ROS2"],
       location: "Pasadena, CA",
-      title: "Applied Robotics Engineering (Group 358E) Intern | National Space Grant College and Fellowship Program",
+      title: "Applied Robotics Engineering Intern (358E) | National Space Grant College and Fellowship Program",
       logoUrl: "/jpllogo.jpg",
       start: "08/2026",
       end: "12/2026",
@@ -193,6 +193,41 @@ export const DATA = {
   ],
 
   projects: [
+{
+      title: "Guppy, an Autonomous Underwater Vehicle (AUV)",
+      href: "https://github.com/PalouseRobosub/guppy",
+      dates: "Jan 2025 – Aug 2026",
+      active: true,
+      description:
+        "Palouse Robosub's (Washington State University) AUV for 2026 Robonation Robosub Competition. Placed 22nd place out of 39 qualifying teams, beating Duke and Carnegie Mellon University.",
+      technologies: [,
+        "ROS 2 Jazzy",
+        "Latte Panda Sigma",
+        "T200 Thrusters",
+        "VectorNav VN-100 IMU",
+        "WaterLinked A50 DVL",
+        "FLIR gigE camera",
+        "OpenCV",
+        "YOLO",
+        "C/C++",
+        "Python",
+        "Embedded Systems",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/PalouseRobosub/guppy",
+          icon: <Icons.github className="size-3" />,
+        },
+        {
+          type: "Demo Video",
+          href: "https://drive.google.com/file/d/1gmL-s1qXV2ZtX0_UWfN1Jmb9_LpXUe7R/preview",
+          icon: <GalleryVerticalEndIcon className="size-3" />,
+        },
+      ],
+      image: "/guppy.png",
+      video: "",
+    },
     {
       title: "GNCea, an AUV/ROV Simulator",
       href: "https://github.com/PalouseRobosub/GNCea",
@@ -201,7 +236,7 @@ export const DATA = {
       description:
         "ROS 2 Jazzy based simulator in Gazebo Harmonic with custom C++ plugins for thrust allocation, buoyancy, and hydrodynamic drag; real-time 6-DOF teleop, depth/altitude control, and camera/LiDAR perception.",
       technologies: [
-        "C++",
+        "C/C++",
         "Python",
         "ROS 2 Jazzy",
         "Gazebo Harmonic",
@@ -227,7 +262,7 @@ export const DATA = {
       description:
         "ROS 2 Humble F1Tenth autonomous racing stack for Ackermann vehicles, featuring Follow-the-Gap and wall-following with RGBD + 3D LiDAR perception; supports multi-vehicle racing scenarios and real-time reactive navigation.",
       technologies: [
-        "C++",
+        "C/C++",
         "Python",
         "ROS 2 Humble",
         "Gazebo Classic",
