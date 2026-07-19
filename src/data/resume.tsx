@@ -200,7 +200,7 @@ export const DATA = {
       active: true,
       description:
         "Palouse Robosub's (Washington State University) AUV for 2026 Robonation Robosub Competition. Placed 22nd place out of 39 qualifying teams, beating Duke and Carnegie Mellon University.",
-      technologies: [,
+      technologies: [
         "ROS 2 Jazzy",
         "Latte Panda Sigma",
         "T200 Thrusters",
@@ -219,14 +219,10 @@ export const DATA = {
           href: "https://github.com/PalouseRobosub/guppy",
           icon: <Icons.github className="size-3" />,
         },
-        {
-          type: "Demo Video",
-          href: "https://drive.google.com/file/d/1gmL-s1qXV2ZtX0_UWfN1Jmb9_LpXUe7R/preview",
-          icon: <GalleryVerticalEndIcon className="size-3" />,
-        },
       ],
-      image: "/guppy.png",
-      video: "",
+        image: "/guppy.png",
+        video:
+          "",
     },
     {
       title: "GNCea, an AUV/ROV Simulator",
