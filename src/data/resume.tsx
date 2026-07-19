@@ -71,39 +71,15 @@ export const DATA = {
     {
       company: "NASA Jet Propulsion Laboratory (JPL), California Institute of Technology",
       href: "https://www.jpl.nasa.gov/",
-      badges: ["Lunar Surface Robotics","M2M","ROS2"],
+      badges: ["Lunar Robotics","M2M","ROS2"],
       location: "Pasadena, CA",
       title: "Applied Robotics Engineering (Group 358E) Intern | National Space Grant College and Fellowship Program",
-      logoUrl: "/jpllogo0.jpg",
+      logoUrl: "/jpllogo.jpg",
       start: "08/2026",
       end: "12/2026",
       description:
-        "Selected to develop and demonstrate lunar mobility, manipulation, and mobile-manipulator capabilities supporting NASA Moon to Mars (M2M) objectives.",
+        "Selected to develop and demonstrate lunar mobility, manipulation, and mobile manipulator capabilities supporting NASA Moon to Mars (M2M) objectives.",
     },   
-    {
-      company: "Sierra Lobo",
-      href: "https://sierralobo.com/",
-      badges: ["Orbital Robotics","ROS2","Isaac Sim"],
-      location: "Milan, OH",
-      title: "Robotics Engineering Intern",
-      logoUrl: "/sierralobo.png",
-      start: "05/2026",
-      end: "08/2026",
-      description:
-        "Developed autonomy and simulation workflows for orbital robotics using ROS and Isaac Sim, including HIL programming for a UFACTORY xArm7, CubeSat avionics and thrust-vector control, PCL- and odometry-based deployment simulations, and PID/EKF tuning in Python and MATLAB as a continuation of the SSTI project.",
-    },    
-    {
-      company: "Sierra Lobo",
-      href: "https://sierralobo.com/",
-      badges: ["Orbital Robotics","ROS2","Isaac Sim"],
-      location: "Milan, OH",
-      title: "Robotics Engineering Intern | Part Time",
-      logoUrl: "/sierralobo.png",
-      start: "01/2026",
-      end: "06/2026",
-      description:
-        "Developed ROS 2 and Isaac Sim environments for orbital robotics, satellite servicing, and on-orbit assembly, incorporating Clohessy–Wiltshire orbital propagation with an RK4 solver, NVIDIA Lula inverse kinematics for autonomous manipulation, and RCS thrust-vectoring logic for spacecraft GNC testing as part of SSTI, a joint U.S. Space Force and Ohio university satellite-servicing program.",
-    },
     {
       company: "WSU, SIAS Lab, Dr. Hosseinzadeh",
       href: "https://labs.wsu.edu/siaslab/",
@@ -115,6 +91,30 @@ export const DATA = {
       end: "Present",
       description:
         "Developing Isaac Sim implementation of HuNavSim for Unitree Go2 quadruped, modeling social intention and enabling safe path planning around people.",
+    },
+    {
+      company: "Sierra Lobo",
+      href: "https://sierralobo.com/",
+      badges: ["Orbital Robotics","ROS2","Isaac Sim"],
+      location: "Milan, OH",
+      title: "Robotics Engineering Intern",
+      logoUrl: "/sierralobo.png",
+      start: "05/2026",
+      end: "08/2026",
+      description:
+        "Developed autonomy and simulation workflows for orbital robotics using ROS and Isaac Sim, including HIL programming for a UFACTORY xArm7, CubeSat avionics and thrust-vector control, PCL and odometry-based deployment simulations, and PID/EKF tuning in Python and MATLAB as a continuation of the SSTI project.",
+    },    
+    {
+      company: "Sierra Lobo",
+      href: "https://sierralobo.com/",
+      badges: ["Orbital Robotics","ROS2","Isaac Sim"],
+      location: "Milan, OH",
+      title: "Robotics Engineering Intern | Part Time",
+      logoUrl: "/sierralobo.png",
+      start: "01/2026",
+      end: "06/2026",
+      description:
+        "Developed ROS 2 and Isaac Sim environments for orbital robotics, satellite servicing, and on-orbit assembly, incorporating Clohessy Wiltshire orbital propagation with an RK4 solver, NVIDIA Lula inverse kinematics for autonomous manipulation, and RCS thrust vectoring logic for spacecraft GNC testing as part of SSTI, a joint U.S. Space Force and Ohio university satellite-servicing program.",
     },
     {
       company: "UF, RISING Lab, Dr. Sandip Ray",
