@@ -199,7 +199,7 @@ export const DATA = {
       dates: "Jan 2025 – Aug 2026",
       active: true,
       description:
-        "Palouse Robosub's (Washington State University) AUV for 2026 Robonation Robosub Competition. Placed 22nd place out of 39 qualifying teams, beating Duke and Carnegie Mellon University.",
+        "Palouse Robosub's (Washington State University) AUV for 2026 Robonation Robosub Competition. Placed 23rd place out of 58 teams, beating Cornell, UMich, ERAU, Georgia Tech, NC State, and UCLA",
       technologies: [
         "ROS 2 Jazzy",
         "Latte Panda Sigma",
