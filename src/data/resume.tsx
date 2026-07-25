@@ -76,7 +76,7 @@ export const DATA = {
       title: "Applied Robotic Systems Engineering Intern (Group 358E)",
       logoUrl: "/jpllogo.jpg",
       start: "08/2026",
-      end: "12/2026",
+      end: "Present",
       description:
         "Selected to develop and demonstrate lunar mobility, manipulation, and mobile manipulator capabilities supporting NASA Moon to Mars (M2M) objectives.",
     },   
