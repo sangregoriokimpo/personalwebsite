@@ -35,6 +35,7 @@ export const DATA = {
     "ARM Assembly",
     "LaTeX",
     "Shell",
+    "XML/SDF",
   ],
 
   navbar: [
