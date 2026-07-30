@@ -34,6 +34,7 @@ export const DATA = {
     "Verilog",
     "ARM Assembly",
     "LaTeX",
+    "Shell",
   ],
 
   navbar: [
